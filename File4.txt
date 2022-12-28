@@ -1,1 +1,2 @@
 Create a localrepo to remote
+remote to localrepo pull
